@@ -1,5 +1,5 @@
 # Davinci_Resolve_Ubuntu2404
-Additional step to run Davinci Resolve on Ubuntu 24.04
+An additional fix to run Davinci Resolve on Ubuntu 24.04. 
 
 # Execution
 First, try running resolve via the terminal command.
