@@ -16,3 +16,5 @@ Execute the bash file to download compatible libs from Ubuntu 22.04
 
 # Disclaimer
 This script does not secure the safety of the system, please execute the script only if you understand the risk and the script content!
+The solution reference is from "Some Assembly required".
+https://www.youtube.com/watch?v=Y87MFmcy3lc&ab_channel=SomeAssemblyrequired
